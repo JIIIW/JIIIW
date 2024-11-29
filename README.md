@@ -4,11 +4,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiiiw)](https://git.io/streak-stats)
 
 <div align="center">
-  <h2>💻 Social</h2>
-  <a href="https://www.instagram.com/ljw_daisy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</div>
-
-<div align="center">
   <h2>💻 My Stack</h2>
   <h3>Languages & Frameworks</h3>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></br>
