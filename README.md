@@ -1,6 +1,5 @@
 # Hi there 👋 </br>I'm Jiwoo Lee, I hope to Data Analyst
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIIIW&count_bg=%237BBDFF&title_bg=%239E9E9E&icon=&icon_color=%237EB8FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
-[![JIIIW's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIIIW)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiiiw)](https://git.io/streak-stats)
 
 <div align="center">
