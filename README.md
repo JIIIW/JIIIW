@@ -27,7 +27,7 @@
 
 #
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiiiw)](https://github.com/jiiiw/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiiiw)](https://github.com/eungyeole/velog-readme-stats)
 
 
 
