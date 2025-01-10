@@ -1,6 +1,6 @@
 # Hi there 👋 </br>I'm Jiwoo Lee, I hope to Backend Developer
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIIIW&count_bg=%237BBDFF&title_bg=%239E9E9E&icon=&icon_color=%237EB8FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiiiw)](https://git.io/streak-stats)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/ef1b4f95)
 
 <div align="center">
   <h2>💻 My Stack</h2>
@@ -17,10 +17,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
 
 </div>
-
-#
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jiiiw)](https://velog.io/@jiiiw)
 
 
 
