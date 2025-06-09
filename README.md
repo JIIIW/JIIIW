@@ -1,5 +1,4 @@
-# Hi there 👋 </br>I'm Jiwoo Lee, I hope to Data Analyst
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIIIW&count_bg=%237BBDFF&title_bg=%239E9E9E&icon=&icon_color=%237EB8FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
+# Hi there 👋 </br>I'm Jiwoo Lee, I am Data Analyst
 [![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/ef1b4f95)
 
 <div align="center">
